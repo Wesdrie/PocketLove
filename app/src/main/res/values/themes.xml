@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.MySecretLoveProject" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="Theme.PocketLove" parent="Theme.MaterialComponents.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/SLP_Red</item>
         <item name="colorPrimaryVariant">@color/Red</item>
@@ -14,14 +14,14 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.MySecretLoveProject.DarkActionBar">
+    <style name="Theme.PocketLove.DarkActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.MySecretLoveProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.PocketLove.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="Theme.MySecretLoveProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.PocketLove.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="RoundCorner" parent="">
         <item name="cornerFamily">rounded</item>
